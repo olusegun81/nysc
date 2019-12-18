@@ -1,0 +1,18 @@
+/* HEADER */
+
+
+/* MAIN */
+.welcome{
+    border-top: 0.2rem solid #960000;
+    border-bottom: 0.5rem solid #f6f6f8; 
+}
+
+.guidelines{
+    border-bottom: 0.1rem solid #53555c;
+}
+
+.feet{
+    border-top: 0.2rem solid #960000;
+    background-color: darkgreen;
+    padding-bottom:1rem;
+}
